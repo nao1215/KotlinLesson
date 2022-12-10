@@ -8,6 +8,8 @@ class FileUtilsTest {
     fun testReadFile() {
         val f = FileUtils()
         val got = f.readFile("src/test/resources/testdata/file/sample.txt")
-        assertEquals("aaa\nbbb\nccc", got)
+        assertEquals("""aaa
+bbb
+ccc""".trimMargin(), got)
     }
 }
