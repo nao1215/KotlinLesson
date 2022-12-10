@@ -21,6 +21,7 @@ jobs:
           # Eclipse Temurin: https://github.com/actions/setup-java#supported-version-syntax
           distribution: "temurin"
       - name: Run Unit Test
-        uses: gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1
+        # https://github.com/gradle/gradle-build-action
+        uses: gradle/gradle-build-action@v2
         with:
           arguments: test
