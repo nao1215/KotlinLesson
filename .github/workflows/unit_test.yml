@@ -24,4 +24,4 @@ jobs:
         # https://github.com/gradle/gradle-build-action
         uses: gradle/gradle-build-action@v2
         with:
-          arguments: test
+          arguments: build
