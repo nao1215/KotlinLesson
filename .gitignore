@@ -31,3 +31,4 @@ lib/bin
 
 # Ignore vscode setting
 .vscode
+.idea
