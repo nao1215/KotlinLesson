@@ -1,12 +1,11 @@
-# "THE SUSHI-WARE LICENSE"
+# THE FOOD-WARE LICENSE
 
-<n.chika156@gmail.com> wrote this file.
+Copyright (c) 2022 CHIKAMATSU Naohiro
 
-As long as you retain this notice you can do whatever you want
-with this stuff. If we meet some day, and you think this stuff
-is worth it, you can buy me a **sushi 🍣** in return.
+As long as you retain this notice you can do whatever you want with this stuff.
+If you have given this software (including repositories) a GitHub Star, or shared
+this software on a social networking site, you must send food to the author.
 
-(This license is based on ["THE BEER-WARE LICENSE" (Revision 42)].
- Thanks a lot, Poul-Henning Kamp ;)
-
-["THE BEER-WARE LICENSE" (Revision 42)]: https://people.freebsd.org/~phk/
+Food means sushi🍣, meat🥩, beer🍻, etc.
+The food-ware license allows for financial support via services such as GitHub Sponsors
+and Buy Me a Coffee in lieu of food.
